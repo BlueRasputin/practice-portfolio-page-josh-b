@@ -1,0 +1,90 @@
+body {
+    background-color: rgba(114, 114, 199, 0.76);
+}
+
+h1 {
+    color: rgb(44, 20, 131);
+    text-align: left;
+    font-size: 4rem;
+}
+h2 {
+    font-weight: lighter;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+
+}
+
+h3 {
+    color: blue;
+
+}
+
+h4 {
+    color: blue;
+    background: linear-gradient(to right, rgb(111, 175, 89), white);
+    font-weight: bolder;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    padding: 6px;
+}
+
+h3, h4 {
+    margin: 30px 0 0;
+}
+
+header. footer {
+    color:aliceblue;
+padding 10 px 30 px;
+}
+
+body {
+    color: green
+    font-family: Arial, Helvetica, sans-serif
+    width 100vw;
+    pading: 0 10vw;
+
+}
+
+main {
+    background-color: white;
+    padding: 30px;
+
+}
+ul {
+    list-style-type: square;
+}
+
+table {
+    color: black;
+
+}
+
+th, tr:nth-child(even) {
+    background-color: #bbb;
+}
+tr:nth-child(odd) {
+    background-color: #eee;
+}
+
+em {
+    font-style: normal;
+    text-decoration: underline;
+}
+
+a {
+    font-weight: bold;
+    text-decoration: none;
+    color: orange;
+}
+
+
+
+.bigger-text {
+    font-size: 1.2rem;
+}
+
+
+#special {
+
+}
